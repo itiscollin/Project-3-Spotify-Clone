@@ -43,3 +43,14 @@
     color: #fff;
 
 }
+
+#sidebar .footer {
+    margin-top: auto;
+    padding: 20px;
+    font-size: x-small;
+}
+
+#sidebar .footer a {
+    display: block;
+    text-decoration: none;
+}
